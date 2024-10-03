@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="hllH8e__2JHMfkExF6hT">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IF_IjJwablSeeLtsvGaD-1" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IF_IjJwablSeeLtsvGaD-2" target="IF_IjJwablSeeLtsvGaD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IF_IjJwablSeeLtsvGaD-3" target="IF_IjJwablSeeLtsvGaD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-3" value="Cadeia nome&lt;div&gt;Real numero&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="150" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IF_IjJwablSeeLtsvGaD-4" target="IF_IjJwablSeeLtsvGaD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-4" value="Escreva &quot;Qual o seu nome?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="240" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IF_IjJwablSeeLtsvGaD-5" target="IF_IjJwablSeeLtsvGaD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-5" value="Leia nome" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="330" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IF_IjJwablSeeLtsvGaD-6" target="IF_IjJwablSeeLtsvGaD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-6" value="Escreva &quot;Qual numero deseja ser informado junto com seu nome?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="420" width="219" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IF_IjJwablSeeLtsvGaD-7" target="IF_IjJwablSeeLtsvGaD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-7" value="Leia numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="510" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IF_IjJwablSeeLtsvGaD-9" target="IF_IjJwablSeeLtsvGaD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IF_IjJwablSeeLtsvGaD-9" value="&quot;Seu nome é &quot;, nome, &quot;, e o numero informado é &quot;, numero" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="600" width="193" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
