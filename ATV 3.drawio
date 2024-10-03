@@ -1,1 +1,66 @@
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/></root></mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="Z_6pqtwsuMPdD-8XSkEu">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdZLTC7jXkPDKSb4eQi7-2" target="LdZLTC7jXkPDKSb4eQi7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-3" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdZLTC7jXkPDKSb4eQi7-4" target="LdZLTC7jXkPDKSb4eQi7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-4" value="Inteiro numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-5" value="Escreva &quot;Qual é o numeor que deseja saber se esta entre 1 e 10&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="260" width="396" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdZLTC7jXkPDKSb4eQi7-6" target="LdZLTC7jXkPDKSb4eQi7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-6" value="&amp;nbsp;Leia numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdZLTC7jXkPDKSb4eQi7-7" target="LdZLTC7jXkPDKSb4eQi7-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="553" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdZLTC7jXkPDKSb4eQi7-7" target="LdZLTC7jXkPDKSb4eQi7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-7" value="Se numero &amp;gt;= 1 e &amp;lt;= 10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="160" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdZLTC7jXkPDKSb4eQi7-9" target="LdZLTC7jXkPDKSb4eQi7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-9" value="Escreva &quot; O numero informado esta entre 1 e 10&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdZLTC7jXkPDKSb4eQi7-10" target="LdZLTC7jXkPDKSb4eQi7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-10" value="Escreva &quot; O numero informado não esta entre 1 e 10&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-12" value="FALSO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="508" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-13" value="VERADEIRO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="508" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZLTC7jXkPDKSb4eQi7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.608;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LdZLTC7jXkPDKSb4eQi7-5" target="LdZLTC7jXkPDKSb4eQi7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

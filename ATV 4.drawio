@@ -1,1 +1,55 @@
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/></root></mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="XNnrRCXxQ6aL7IKi6Eog">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKMNQjlGJ87r6ygVWKRU-1" target="GKMNQjlGJ87r6ygVWKRU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-3" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKMNQjlGJ87r6ygVWKRU-4" target="GKMNQjlGJ87r6ygVWKRU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-4" value="Real numero&lt;div&gt;Real Potencia&lt;/div&gt;&lt;div&gt;Real Raiz&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKMNQjlGJ87r6ygVWKRU-5" target="GKMNQjlGJ87r6ygVWKRU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-5" value="Escreva &quot;Qual numero deseja saber a raiz e a sua potencia&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="270" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKMNQjlGJ87r6ygVWKRU-6" target="GKMNQjlGJ87r6ygVWKRU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-6" value="Leia numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKMNQjlGJ87r6ygVWKRU-8" target="GKMNQjlGJ87r6ygVWKRU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-8" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Raiz = raiz(numero)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKMNQjlGJ87r6ygVWKRU-10" target="GKMNQjlGJ87r6ygVWKRU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-10" value="potencia = numero * numero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.494;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GKMNQjlGJ87r6ygVWKRU-17" target="GKMNQjlGJ87r6ygVWKRU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GKMNQjlGJ87r6ygVWKRU-17" value="Escreva &quot;A raiz de &quot; + numero+&quot; e a sua raiz é &quot; + raiz + &quot; e sua potencia é &quot; + potencia" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="176" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
